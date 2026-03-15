@@ -1,0 +1,1 @@
+Stage directions complicate the transformation. Catching the potential stage directions with regular expressions (containing characters like (), [], etc.) is a method I used. Also, some lines have multiple speakers and typos in speaker names, so choosing a primary speaker is required. 

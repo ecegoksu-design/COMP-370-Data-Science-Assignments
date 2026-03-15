@@ -1,0 +1,8 @@
+label,precision,recall
+Academic Admin / Degree Progress,0.600,0.333
+Campus Facilities & Services,0.333,0.200
+ERROR,0.000,0.000
+Exams & Courses,0.833,0.357
+General Discussion,1.000,0.200
+Governance & Student Politics,0.000,0.000
+"Health, Immigration & Well-Being",1.000,1.000
